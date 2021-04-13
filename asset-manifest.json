@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/spacex/static/css/main.b1ed6c29.chunk.css",
+    "main.js": "/spacex/static/js/main.f36cec70.chunk.js",
+    "main.js.map": "/spacex/static/js/main.f36cec70.chunk.js.map",
+    "runtime-main.js": "/spacex/static/js/runtime-main.74379714.js",
+    "runtime-main.js.map": "/spacex/static/js/runtime-main.74379714.js.map",
+    "static/js/2.a0d259d6.chunk.js": "/spacex/static/js/2.a0d259d6.chunk.js",
+    "static/js/2.a0d259d6.chunk.js.map": "/spacex/static/js/2.a0d259d6.chunk.js.map",
+    "static/js/3.7dda1245.chunk.js": "/spacex/static/js/3.7dda1245.chunk.js",
+    "static/js/3.7dda1245.chunk.js.map": "/spacex/static/js/3.7dda1245.chunk.js.map",
+    "index.html": "/spacex/index.html",
+    "static/css/main.b1ed6c29.chunk.css.map": "/spacex/static/css/main.b1ed6c29.chunk.css.map",
+    "static/js/2.a0d259d6.chunk.js.LICENSE.txt": "/spacex/static/js/2.a0d259d6.chunk.js.LICENSE.txt",
+    "static/media/astroImage.6ac50c6a.svg": "/spacex/static/media/astroImage.6ac50c6a.svg",
+    "static/media/particles.c2981d69.mp4": "/spacex/static/media/particles.c2981d69.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74379714.js",
+    "static/js/2.a0d259d6.chunk.js",
+    "static/css/main.b1ed6c29.chunk.css",
+    "static/js/main.f36cec70.chunk.js"
+  ]
+}
